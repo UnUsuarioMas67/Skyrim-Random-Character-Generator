@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<StartingLocationGetter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Samples>
+    <string>Whiterun</string>
+    <string>Riverwood</string>
+    <string>Rorikstead</string>
+    <string>Falkreath</string>
+    <string>Helgen</string>
+    <string>Riften</string>
+    <string>Ivarstead</string>
+    <string>Shor's Stone</string>
+    <string>Windhelm</string>
+    <string>Solitude</string>
+    <string>Dragon Bridge</string>
+    <string>Markath</string>
+    <string>Karthwasten</string>
+    <string>Morthal</string>
+    <string>Dawnstar</string>
+    <string>Dushnikh Yal</string>
+    <string>Largashbur</string>
+    <string>Mor Khazgur</string>
+    <string>Narzulbur</string>
+  </Samples>
+</StartingLocationGetter>

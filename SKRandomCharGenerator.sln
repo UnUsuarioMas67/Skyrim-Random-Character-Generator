@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SKRandomCharGenerator", "SKRandomCharGenerator.csproj", "{48270374-5D9E-4086-A7FB-FFBD4DFDF7AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRCG_NameList_Manager", "..\SRCG_NameList_Manager\SRCG_NameList_Manager.csproj", "{75B7DEDA-5742-4496-880B-F06CB8D4BE1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48270374-5D9E-4086-A7FB-FFBD4DFDF7AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48270374-5D9E-4086-A7FB-FFBD4DFDF7AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48270374-5D9E-4086-A7FB-FFBD4DFDF7AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48270374-5D9E-4086-A7FB-FFBD4DFDF7AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B7DEDA-5742-4496-880B-F06CB8D4BE1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B7DEDA-5742-4496-880B-F06CB8D4BE1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B7DEDA-5742-4496-880B-F06CB8D4BE1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B7DEDA-5742-4496-880B-F06CB8D4BE1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E92BE5F0-221B-452F-916C-C551372E1779}
+	EndGlobalSection
+EndGlobal
